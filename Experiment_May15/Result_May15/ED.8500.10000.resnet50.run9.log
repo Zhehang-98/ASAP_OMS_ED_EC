@@ -1,0 +1,10 @@
+
+===== FINAL STATS =====
+Total tasks completed: 10000
+Tasks sent to EC:      974
+Tasks run locally:     9026
+Percent run locally (ED): 90.26 %
+Percent offloaded (EC):   9.74 %
+Avg latency per task:      549664 ms
+Sending duration:          1 ms
+========================

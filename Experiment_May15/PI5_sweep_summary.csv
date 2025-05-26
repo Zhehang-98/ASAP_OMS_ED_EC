@@ -1,0 +1,2 @@
+model,lambda,total_tasks,total_time_ms,completed,offloaded,local,avg_latency_ms,pct_local,pct_offloaded
+resnet50,5,507,100166,507,507,0,36.00,0.00,100.00

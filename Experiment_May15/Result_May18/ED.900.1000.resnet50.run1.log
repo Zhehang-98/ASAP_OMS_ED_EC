@@ -1,0 +1,29 @@
+[INIT] Model loaded in 321.15 ms
+[INIT] Memory used for model: 178.45 MB
+[INIT] CPU at model load: [31.0, 22.6, 100.0, 12.5]
+
+===== PYTHON FALLBACK SUMMARY =====
+Total images inferred:     879
+Model load time:           321.15 ms
+Model load memory used:    178.45 MB
+Model load CPU snapshot:   [31.0, 22.6, 100.0, 12.5]
+
+Avg inference time:        157.19 ms
+Avg memory per inference:  0.20 MB
+
+Per-core average CPU usage during inference:
+  CPU 0: 94.86 %
+  CPU 1: 95.68 %
+  CPU 2: 98.63 %
+  CPU 3: 95.19 %
+Total CPU usage (max 400%): 384.35 %
+====================================
+
+===== FINAL STATS =====
+Total tasks completed: 1000
+Tasks sent to EC:      121
+Tasks run locally:     879
+Percent run locally (ED): 87.9 %
+Percent offloaded (EC):   12.1 %
+Avg latency per task: 62709 ms
+========================
